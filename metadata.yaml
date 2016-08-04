@@ -1,0 +1,37 @@
+_repo: The-End-of-the-Tether_527
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Jozef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Józef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: A sea-faring man all his life, Captain Whalley's change in fortunes sees
+  him captaining a steady, sturdy steamer, the Sofala, for a grasping and unpleasant
+  owner--Whalley's only choice if he is to continue to support his family. But Captain
+  Whalley is becoming increasingly unfit for the post and an ambitious young mate
+  has seen his chance to progress. However, Massy, the increasingly dissatisfied owner
+  of the Sofala, has sabotage in mind.
+gutenberg_issued: '2006-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '527'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seafaring life -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Older men -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Ship captains -- Fiction'
+- GITenberg
+title: The End of the Tether
+url: http://www.gutenberg.org/ebooks/527
