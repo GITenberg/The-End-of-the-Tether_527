@@ -1,5 +1,8 @@
 _repo: The-End-of-the-Tether_527
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -18,6 +21,8 @@ description: A sea-faring man all his life, Captain Whalley's change in fortunes
   Whalley is becoming increasingly unfit for the post and an ambitious young mate
   has seen his chance to progress. However, Massy, the increasingly dissatisfied owner
   of the Sofala, has sabotage in mind.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/527#The-End-of-the-Tether
 gutenberg_issued: '2006-01-09'
 gutenberg_type: Text
 identifiers:
